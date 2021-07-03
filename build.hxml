@@ -1,0 +1,8 @@
+-p src
+-m com.redoverflow.haxebot.Main
+#--neko bin/main.n
+#--python bin/main.py
+--cpp bin/
+-lib haxicord
+-lib haxe-strings
+-lib random
